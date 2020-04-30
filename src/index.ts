@@ -29,7 +29,7 @@ export const quickExit = (config?: ConfigParams) => {
     }
 
     // redirect current tab
-    window.location.href = safeUrl;
+    window.location.replace(safeUrl);
 
     // Open new tab and focus
     window.open(safeUrl, 'Google')!.focus();
