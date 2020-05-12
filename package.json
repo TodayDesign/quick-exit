@@ -1,7 +1,7 @@
 {
   "name": "quick-exit",
   "version": "1.0.0",
-  "description": "",
+  "description": "Quick exit function for sensitive web page",
   "main": "index.js",
   "scripts": {
     "prepare": "npm run build",
