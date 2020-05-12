@@ -2,7 +2,7 @@
   "name": "quick-exit",
   "version": "1.0.0",
   "description": "Quick exit function for sensitive web page",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "prepare": "npm run build",
     "postversion": "git push && git push --tags",
