@@ -1,6 +1,6 @@
 {
   "name": "quick-exit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quick exit function for sensitive web page",
   "main": "lib/index.js",
   "scripts": {
