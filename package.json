@@ -15,9 +15,13 @@
     "type": "git",
     "url": "git+https://github.com/TodayDesign/quick-exit.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "javascript",
+    "safe exit",
+    "quick exit"
+  ],
+  "author": "Today Design",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/TodayDesign/quick-exit/issues"
   },
